@@ -1,0 +1,13 @@
+body {
+    margin: 30px auto;
+    max-width: 650px;
+    color: #404040;
+    line-height: 1.6;
+    font-size: large;
+
+}
+
+#special {
+    font-size: 19px;
+    letter-spacing: 2px;
+}
